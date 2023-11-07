@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tehtävä 1", "Tehtävät 3 C++\Tehtävät 3 C++.vcxproj", "{6A2D290A-E959-4368-9A8C-D15A9CB90554}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tehtävä 2, 3 ja 4", "Tehtävä 2\Tehtävä 2.vcxproj", "{A504E43B-BB17-4C8F-9C3F-4C8232CF1B18}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tehtävä 2, 3, 4 ja 5", "Tehtävä 2\Tehtävä 2.vcxproj", "{A504E43B-BB17-4C8F-9C3F-4C8232CF1B18}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Testi swapille(Ei kotitehtävä)", "Testi swapille\Testi swapille.vcxproj", "{63CB73C7-97FD-499D-8851-93027FFDD2F2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tehtävä 5", "Tehtävä 5\Tehtävä 5.vcxproj", "{B6957E13-1520-432A-9155-717482BD6133}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tehtävä 6", "Tehtävä 5\Tehtävä 5.vcxproj", "{B6957E13-1520-432A-9155-717482BD6133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
